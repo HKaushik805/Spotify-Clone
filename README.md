@@ -1,2 +1,8 @@
 # Spotify-Clone
-Based on HTML, CSS
+**Technologies used -**
+
+HTML
+
+CSS
+
+Bootstrap
